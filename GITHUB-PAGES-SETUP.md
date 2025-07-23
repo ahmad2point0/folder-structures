@@ -36,7 +36,7 @@ git push origin main
 2. **Watch the workflow run** - it takes about 2-3 minutes
 3. **Check the deployment** - your site will be live at:
    
-   **🌐 https://ahmad2point0.github.io/react-app-folder-structure/**
+   **🌐 https://ahmad2point0.github.io/folder-structures/**
 
 ## 🔧 What Happens Automatically
 
@@ -86,7 +86,7 @@ theme: just-the-docs
 
 After deployment, verify everything works:
 
-1. **Visit your site:** https://ahmad2point0.github.io/react-app-folder-structure/
+1. **Visit your site:** https://ahmad2point0.github.io/folder-structures/
 2. **Test navigation:** Click through different pages
 3. **Test search:** Use the search functionality
 4. **Check mobile:** View on mobile devices
@@ -186,4 +186,4 @@ The GitHub Actions workflow handles everything automatically! 🎉
 ---
 
 **🌐 Your documentation will be live at:**
-**https://ahmad2point0.github.io/react-app-folder-structure/**
+**https://ahmad2point0.github.io/folder-structures/**
