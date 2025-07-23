@@ -1,12 +1,12 @@
 # Just the Docs configuration
-title: React App Folder Structure Templates
+title: React App Folder Structure
 description: Battle-tested, scalable folder structures for React applications
 baseurl: "/react-app-folder-structure"
 url: "https://ahmad2point0.github.io"
 
 # Theme
 theme: just-the-docs
-color_scheme: light
+color_scheme: dark
 
 # Search
 search_enabled: true
