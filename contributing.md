@@ -102,7 +102,7 @@ Your `README.md` should include:
 - **Path alias configuration**
 - **Dependencies and configurations**
 
-Use the [React Native Expo template]({% link react-native-expo.md %}) as a reference.
+Use the [React Native Expo template](react-native-expo.html) as a reference.
 
 ### Step 3: Create Jekyll Documentation Page
 

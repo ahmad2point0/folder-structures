@@ -31,7 +31,7 @@ Feature-based architecture organizes code by business features rather than techn
 
 | Framework | Status | Description | Documentation |
 |:----------|:-------|:------------|:--------------|
-| **React Native Expo** | ✅ Available | Mobile apps with Expo Router | [📱 View →]({% link react-native-expo.md %}) |
+| **React Native Expo** | ✅ Available | Mobile apps with Expo Router | [📱 View →](react-native-expo.html) |
 | **Next.js App Router** | 🚧 Coming Soon | Full-stack web apps with App Router | 🔜 |
 | **Vite + React** | 🚧 Coming Soon | Fast development with Vite | 🔜 |
 | **Create React App** | 🚧 Coming Soon | Traditional React SPA | 🔜 |
@@ -69,4 +69,4 @@ src/
 
 ## Contributing
 
-We welcome contributions! See our [Contributing Guide]({% link contributing.md %}) for details on how to add new templates or improve existing ones.
+We welcome contributions! See our [Contributing Guide](contributing.html) for details on how to add new templates or improve existing ones.

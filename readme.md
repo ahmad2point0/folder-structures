@@ -2,7 +2,7 @@
 
 Battle-tested, scalable folder structures for React applications using feature-based architecture.
 
-📖 **[View Documentation](https://ahmad2point0.github.io/react-app-folder-structure/)** | 🤝 **[Contributing Guide](./contributing.md)** | 🛠️ **[Setup Instructions](./SETUP.md)**
+📖 **[View Documentation](https://ahmad2point0.github.io/react-app-folder-structure/)** | 🤝 **[Contributing Guide](contributing.md)** | 🛠️ **[Setup Instructions](SETUP.md)**
 
 ## 🎯 Why Feature-Based Architecture?
 
@@ -15,7 +15,7 @@ Battle-tested, scalable folder structures for React applications using feature-b
 
 | Framework | Status | Description | Link |
 |-----------|--------|-------------|------|
-| **React Native Expo** | ✅ Available | Mobile apps with Expo Router | [📱 View →](./react-native-expo/README.md) |
+| **React Native Expo** | ✅ Available | Mobile apps with Expo Router | [📱 View →](react-native-expo/README.md) |
 | **Next.js App Router** | 🚧 Coming Soon | Full-stack web apps with App Router | 🔜 |
 | **Vite + React** | 🚧 Coming Soon | Fast development with Vite | 🔜 |
 | **Create React App** | 🚧 Coming Soon | Traditional React SPA | 🔜 |
@@ -80,7 +80,7 @@ bundle exec jekyll serve
 
 Then open `http://localhost:4000` to view the documentation.
 
-📖 **Detailed setup instructions:** [SETUP.md](./SETUP.md)
+📖 **Detailed setup instructions:** [SETUP.md](SETUP.md)
 
 ## 🤝 Contributing
 

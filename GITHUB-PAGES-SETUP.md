@@ -105,8 +105,9 @@ After deployment, verify everything works:
 - Make sure it matches your repository name
 
 **3. Links don't work:**
-- Use Jekyll's `{% link %}` syntax for internal links
-- Example: `[Contributing]({% link contributing.md %})`
+- Use relative links for internal pages
+- Example: `[Contributing](contributing.html)`
+- For markdown files, use `.html` extension in links
 
 **4. Images don't load:**
 - Place images in `assets/images/`

@@ -107,8 +107,8 @@ export default function AuthLayout() {
   return (
     <AuthProvider>
       <Stack>
-        <Stack.Screen name="login" options={{ title: "Login" }} />
-        <Stack.Screen name="register" options={{ title: "Register" }} />
+        <Stack.Screen name="login" options={{"{{"}} title: "Login" {{"}}"}} />
+        <Stack.Screen name="register" options={{"{{"}} title: "Register" {{"}}"}} />
       </Stack>
     </AuthProvider>
   );
